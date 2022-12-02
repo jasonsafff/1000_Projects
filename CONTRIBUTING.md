@@ -15,7 +15,7 @@ Please **do not send pull requests for replacing my code**. If you'd like to con
     
     This results in something like this:
     
-    **This is a problem** - And here goes it's description. [[octocat (language)]](link-to-octocats-solution) [[your_username (C++)]](link-to-your-solution)
+
 
 - Please respect other people and do not delete or move anyone else's link. Place your solution at the end of the list of solutions.
 
